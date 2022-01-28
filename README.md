@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DanielyanArtyom
-- 👀 I’m interested in  UI Development especially in ReactJS Development
+- 👋 Hi, I’m Artyom Danielyan
+- 👀 I’m interested in development especially in ReactJS Development
 - 🌱 I’m currently imporving my ReactJS and UI Development skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
