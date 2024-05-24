@@ -3,8 +3,8 @@
 - 🌱 I’m currently imporving my ReactJS and UI Development skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-  1. my email: artyom.danielyan1@gmail.com
-  2. my phone: +374-77-62-58-77
+  1. my email: danielyan.artyom98@gmail.com
+  2. my phone: +374-44-62-58-77
 
 <!---
 DanielyanArtyom/DanielyanArtyom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
