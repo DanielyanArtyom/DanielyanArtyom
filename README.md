@@ -1,12 +1,31 @@
-- 👋 Hi, I’m Artyom Danielyan
-- 👀 I’m interested in development especially in ReactJS Development
-- 🌱 I’m currently imporving my ReactJS and UI Development skills
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
-  1. my email: danielyan.artyom98@gmail.com
-  2. my phone: +374-44-62-58-77
+Hello there, I’m Artyom.
 
-<!---
-DanielyanArtyom/DanielyanArtyom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have more than 4 years of experience in developing large-scale front-end projects and over 2 years in backend development, including architectural design for microservices and monolithic applications, REST API web services, and MVC applications. 
+
+Programming Languages:
+ * C#
+ * T-SQL
+ * JavaScript
+ * TypeScript
+
+Technologies and Frameworks:
+ * .NET, ASP.NET Core, ASP.NET MVC, ASP.NET Web API
+ * Entity Framework
+ * React JS, React Native, Redux, NextJs, Angular
+ * HTML5, CSS3 (SCSS)
+
+Databases:
+ * MS SQL Server
+ * PostgreSQL 
+ * MongoDB
+
+Version Control:
+ * Git
+
+Development Tools:
+ * Visual Studio, Visual Studio Code, JetBrains Rider
+ * MS SQL Server Management Studio, PgAdmin, DBeaver
+
+Management Tools:
+ * Jira, Confluence
+ * Trello
