@@ -1,31 +1,37 @@
-Hello there, I’m Artyom.
+Hello there, I'm Artyom.
 
-I have more than 4 years of experience in developing large-scale front-end projects and over 2 years in backend development, including architectural design for microservices and monolithic applications, REST API web services, and MVC applications. 
+I am a dedicated .NET Developer with experience in building scalable and high-performance applications using C#, .NET Core, and ASP.NET Core. I specialize in API development, working with SQL databases such as MS SQL Server and PostgreSQL, and optimizing code and database performance.
 
-Programming Languages:
- * C#
- * T-SQL
- * JavaScript
- * TypeScript
+Currently, I am working at Devsoft AM, where I develop UI components, ensure high-quality code using SOLID principles, and collaborate with cross-functional teams to meet business goals. 
 
-Technologies and Frameworks:
- * .NET, ASP.NET Core, ASP.NET MVC, ASP.NET Web API
- * Entity Framework
- * React JS, React Native, Redux, NextJs, Angular
- * HTML5, CSS3 (SCSS)
+I am committed to continuous learning and keeping up with the latest technologies like AWS, Docker, Kubernetes, and CI/CD pipelines to ensure modern, efficient software solutions.
 
-Databases:
- * MS SQL Server
- * PostgreSQL 
- * MongoDB
+Key Skills:
+   - Programming Languages:
+     *  C#
+     * T-SQL
+     * JavaScript
+     * TypeScript
 
-Version Control:
- * Git
+   - Technologies and Frameworks:
+      * .NET, ASP.NET Core, ASP.NET Web API
+      * Unit Testing
+      * Entity Framework
+      * React JS, React Native, Redux, NextJs
+      * HTML5, CSS3 (SCSS)
 
-Development Tools:
- * Visual Studio, Visual Studio Code, JetBrains Rider
- * MS SQL Server Management Studio, PgAdmin, DBeaver
+   - Cloud:
+     * AWS
+     * Docker
+     * Kubernetes
+     * Microservices Architecture
 
-Management Tools:
- * Jira, Confluence
- * Trello
+   - Databases:
+     * MS SQL Server
+     * PostgreSQL 
+     * MongoDB
+
+   - Version Control:
+      * Git
+
+I am passionate about writing clean, efficient code, and always looking to contribute to high-impact projects. Feel free to connect if you are seeking a skilled .NET developer.
